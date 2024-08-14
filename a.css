@@ -1,0 +1,11 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: center;
+    background-color: beige;
+    font-size: larger;
+
+}
+.intro{
+      font-family: 'Times New Roman', Times, serif;
+      padding: 90px;
+}
